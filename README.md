@@ -1,1 +1,1 @@
-# BNT162b4_epitopes
+# BNT162b4 epitopes
