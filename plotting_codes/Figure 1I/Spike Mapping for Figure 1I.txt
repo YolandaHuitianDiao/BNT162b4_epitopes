@@ -1,0 +1,8 @@
+Antigen	Color	TextColor	FontSize	start	end	midpoint	string	PlotGroup
+	gray98	black	1	304	318	311		_304_318
+RBD	darkred	white	1	319	541	430		RBD_319_541
+S1-CTD	gray80	black	1	528	687	607.5		S1-CTD_528_687
+S1-NTD	gray80	black	1	14	303	158.5		S1-NTD_14_303
+S2	gray50	black	1	686	1206	946		S2_686_1206
+SP	gray30	white	0.5	1	19	10		SP_1_19
+TM	gray30	white	1	1207	1273	1240		TM_1207_1273

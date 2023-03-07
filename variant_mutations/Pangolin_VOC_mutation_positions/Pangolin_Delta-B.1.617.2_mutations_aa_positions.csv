@@ -1,0 +1,13 @@
+Type,Protein,Mutation,position,Mut_len,Mut_positions
+aa,S,T19R,19,1,19
+aa,S,L452R,452,1,452
+aa,S,T478K,478,1,478
+aa,S,P681R,681,1,681
+aa,S,D950N,950,1,950
+aa,ORF3a,S26L,26,1,26
+aa,M,I82T,82,1,82
+aa,ORF7a,V82A,82,1,82
+aa,ORF7a,T120I,120,1,120
+aa,N,D63G,63,1,63
+aa,N,R203M,203,1,203
+aa,N,D377Y,377,1,377

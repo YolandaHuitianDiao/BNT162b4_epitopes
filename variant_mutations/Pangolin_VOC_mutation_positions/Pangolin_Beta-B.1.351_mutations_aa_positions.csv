@@ -1,0 +1,10 @@
+Type,Protein,Mutation,position,Mut_len,Mut_positions
+aa,E,P71L,71,1,71
+aa,N,T205I,205,1,205
+aa,ORF1ab,K1655N,1655,1,1655
+aa,S,D80A,80,1,80
+aa,S,D215G,215,1,215
+aa,S,K417N,417,1,417
+aa,S,A701V,701,1,701
+aa,S,N501Y,501,1,501
+aa,S,E484K,484,1,484
